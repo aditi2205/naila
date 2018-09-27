@@ -1,0 +1,206 @@
+Move a file
+send a file
+relocate a file
+rename a file
+Copy a file
+replicate a file
+replicate a file
+duplicate a file
+Remove a file
+delete a file
+send a file to trash
+Change group
+Change permission
+Change user ownership
+Change the password
+modify a group
+modify a permissions
+modify a user ownership
+modify the password
+alter a group
+alter a permissions
+alter a user ownership
+alter the password
+update a group
+update a permissions
+update a user ownership
+update the password
+convert a group
+convert a permissions
+convert a user ownership
+convert the password
+List file
+enlist file
+Display and concatenate
+show and concatenate
+print and concatenate
+Extract the directory from a filename
+Print text
+display text
+show text
+Display less a text file
+Display more a text file
+Display the first lines
+Display the last lines
+Display the traditional Unix online manual
+Display process
+Display how much processor and system time a process takes
+show less a text file
+show more a text file
+show the first lines
+show the last lines
+show the traditional Unix online manual
+show process
+show how much processor and system time a process takes
+print less a text file
+print more a text file
+print the first lines
+print the last lines
+print the traditional Unix online manual
+print process
+print how much processor and system time a process takes
+Show the process with the most resource consumption
+display the process with the most resource consumption
+print the process with the most resource consumption
+Display who is logged on
+Display the current user
+Display the first matching program in the current path
+show who is logged on
+show the current user
+show the first matching program in the current path
+print who is logged on
+print the current user
+print the first matching program in the current path
+Show a calendar
+print a calendar
+display a calendar
+Display the current date
+show the current date
+print the current date
+Print the working directory
+Print the IP address
+display the working directory
+display the IP address
+show the working directory
+show the IP address
+Display the size of a folder or file
+show the size of a folder or file
+print the size of a folder or file
+Display the total free memory available in the system
+Display the total unused memory available in the system
+Display the total used system memory
+show the total free memory available in the system
+show the total unused memory available in the system
+show the total used system memory
+print the total free memory available in the system
+print the total unused memory available in the system
+print the total used system memory
+Create a directory
+Create a named pipe
+Create a special file
+Create a file or updates a file's timestamp
+Create a symbolic or hard link
+make a directory
+make a named pipe
+make a special file
+make a file or updates a file's timestamp
+make a symbolic or hard link
+construct a directory
+construct a named pipe
+construct a special file
+construct a file or updates a file's timestamp
+construct a symbolic or hard link
+produce a directory
+produce a named pipe
+produce a special file
+produce a file or updates a file's timestamp
+produce a symbolic or hard link
+Compare
+Compare files
+equate 
+equate files
+Search 
+Search for lines matching a regular expression
+Search for a file
+look 
+look for lines matching a regular expression
+look for a file
+lookup 
+lookup for lines matching a regular expression
+lookup for a file
+explore 
+explore for lines matching a regular expression
+explore for a file
+find 
+find for lines matching a regular expression
+find for a file
+what is todays date
+help
+manual
+what is time
+open
+clean the terminal
+clear
+reboot
+restart 
+shut down
+power off
+switch off
+sleep
+compress a file
+compress a folder
+uncompress a file
+uncompress a folder
+extract a file
+extract a folder
+zip a file
+unzip a file
+unzip a folder
+zip a folder
+create a folder
+make a folder
+construct a folder
+create a document
+make a document
+construct a document
+shutdown
+poweroff
+print
+show
+display
+list
+enlist
+extract
+create
+construct
+make
+produce
+change
+modify
+alter
+update
+convert
+Move
+relocate
+rename
+Copy
+replicate
+duplicate
+Remove
+delete
+send
+change directory
+go to the directory
+take me to the directory
+navigate me to the directory
+navigate
+go 
+take
+What are my previous commands
+show previous commands
+display previous commands
+print previous commands
+What is command history
+show command history
+display command history
+print command history
